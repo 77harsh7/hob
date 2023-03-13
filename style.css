@@ -1,0 +1,65 @@
+body 
+{
+  text-align:center;
+  background-color:maroon;
+}
+h1
+{
+  color:white;
+  font-size:45px;
+  font-family:'Labrada',cursive;
+}
+h2
+{
+  color:cyan;
+  font-size:30px;
+  font-family:'Labrada',cursive;
+}
+img
+{
+  width:300px
+    ;border:20px solid black;
+  border-radius:15px;
+}
+h3
+{
+  font-size:30px;
+  color:blue;
+  font-family:'Labrada',cursive;
+}
+h4
+{
+  color:green;
+  font-size:32px;
+  font-family:'Labrada',cursive;
+}
+.books
+{
+  font-size:50px;
+  color:darkorange;
+  font-family:'Labrada',cursive;
+}
+.menu
+{
+  list-style:none;
+  font-family:cursive;
+  float:right;
+  top:15;
+  right:50;
+  cursor:pointer;
+  color:pink;
+}
+.links{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+.link:hover{
+    background-color:beige;
+}
+
+
+  
